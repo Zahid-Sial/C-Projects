@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675103294 source:e:\code blocks\phone book\phone book\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1667533505 source:e:\code blocks\my programs\age calculator\main.c
+	<stdio.h>
+	<conio.h>
+
+1667652965 source:e:\code blocks\my programs\age calculator\c tutorial.c
+	<stdio.h>
+
+1667725032 source:e:\code blocks\my programs\age calculator\mix.c
+	<stdio.h>
+
